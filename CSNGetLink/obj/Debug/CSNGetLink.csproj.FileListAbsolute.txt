@@ -1,0 +1,16 @@
+D:\visual studio 2013\Projects\CSNGetLink\CSNGetLink\bin\Debug\CSNGetLink.exe.config
+D:\visual studio 2013\Projects\CSNGetLink\CSNGetLink\bin\Debug\CSNGetLink.exe
+D:\visual studio 2013\Projects\CSNGetLink\CSNGetLink\bin\Debug\CSNGetLink.pdb
+D:\visual studio 2013\Projects\CSNGetLink\CSNGetLink\bin\Debug\HtmlAgilityPack.dll
+D:\visual studio 2013\Projects\CSNGetLink\CSNGetLink\bin\Debug\HtmlAgilityPack.pdb
+D:\visual studio 2013\Projects\CSNGetLink\CSNGetLink\bin\Debug\HtmlAgilityPack.xml
+D:\visual studio 2013\Projects\CSNGetLink\CSNGetLink\obj\Debug\CSNGetLink.csprojResolveAssemblyReference.cache
+D:\visual studio 2013\Projects\CSNGetLink\CSNGetLink\obj\Debug\MainWindow.baml
+D:\visual studio 2013\Projects\CSNGetLink\CSNGetLink\obj\Debug\MainWindow.g.cs
+D:\visual studio 2013\Projects\CSNGetLink\CSNGetLink\obj\Debug\App.g.cs
+D:\visual studio 2013\Projects\CSNGetLink\CSNGetLink\obj\Debug\CSNGetLink_MarkupCompile.cache
+D:\visual studio 2013\Projects\CSNGetLink\CSNGetLink\obj\Debug\CSNGetLink.g.resources
+D:\visual studio 2013\Projects\CSNGetLink\CSNGetLink\obj\Debug\CSNGetLink.Properties.Resources.resources
+D:\visual studio 2013\Projects\CSNGetLink\CSNGetLink\obj\Debug\CSNGetLink.csproj.GenerateResource.Cache
+D:\visual studio 2013\Projects\CSNGetLink\CSNGetLink\obj\Debug\CSNGetLink.exe
+D:\visual studio 2013\Projects\CSNGetLink\CSNGetLink\obj\Debug\CSNGetLink.pdb

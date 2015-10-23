@@ -1,0 +1,22 @@
+﻿<Window x:Class="CSNDownloader.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CSN Get Link" Height="415.299" Width="651.866" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="Playlist URL" HorizontalAlignment="Left" Margin="37,20,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="41" Margin="114,12,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="491" Name="urlTextBox"/>
+        <Button Content="Get" HorizontalAlignment="Left" Margin="236,91,0,0" VerticalAlignment="Top" Width="75" Name="btnGet" Click="btnGet_Click"/>
+        <Button Content="Clear" HorizontalAlignment="Left" Margin="337,91,0,0" VerticalAlignment="Top" Width="76" RenderTransformOrigin="0.345,0.659" Name="btnClear" Click="btnClear_Click"/>
+        <TextBox HorizontalAlignment="Right" Margin="0,207,52,62" TextWrapping="Wrap" Width="545" Name="resTextBlock" BorderThickness="0" IsReadOnly="True" Text=""/>
+        <GroupBox Header="Result" HorizontalAlignment="Left" Margin="38,188,0,0" VerticalAlignment="Top" Width="567" Height="148"/>
+        <RadioButton Content="128kbps" HorizontalAlignment="Left" Margin="114,64,0,0" VerticalAlignment="Top" Name="t128Radio"/>
+        <RadioButton Content="320kbps" HorizontalAlignment="Left" Margin="331,64,0,0" VerticalAlignment="Top" Name="t320Radio"/>
+        <RadioButton Content="Lossless" HorizontalAlignment="Left" Margin="546,64,0,0" VerticalAlignment="Top" Name="tLosslessRadio" IsChecked="True"/>
+        <ProgressBar HorizontalAlignment="Left" Height="20" Margin="38,161,0,0" VerticalAlignment="Top" Width="566" Name="progressBar" Visibility="Hidden"/>
+        <Label Content="IDM Folder" HorizontalAlignment="Left" Margin="37,124,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="22" Margin="114,124,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="398" Name="idmFolderTextBox"/>
+        <Button Content="Browse" HorizontalAlignment="Left" Margin="529,124,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Label Content="Developed by VCN" HorizontalAlignment="Left" Height="25" Margin="497,345,0,0" VerticalAlignment="Top" Width="108" FontStyle="Italic"/>
+
+    </Grid>
+</Window>
